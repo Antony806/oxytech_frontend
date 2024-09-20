@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "23200500787",
+    "firebase_url": "https://oxytech-1aec5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "oxytech-1aec5",
+    "storage_bucket": "oxytech-1aec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23200500787:android:86d33117226c4314146746",
+        "android_client_info": {
+          "package_name": "com.example.oxy_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv6XN5S-mC81dTa9JEgUJBWwV-dGXI6IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
